@@ -21,7 +21,7 @@
 #---------------------------------------------------------------------
 
 # ------------------------------
-# Define some global variables.
+# Define some global variables
 # ------------------------------
 tmprootdir="$(dirname $0)"
 echo ${tmprootdir} | grep '^/' >/dev/null 2>&1
