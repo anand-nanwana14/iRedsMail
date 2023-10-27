@@ -116,7 +116,7 @@ fi
 . ${FUNCTIONS_DIR}/mysql.sh
 . ${FUNCTIONS_DIR}/postgresql.sh
 
-# Switch backend
+# Switch backend.
 . ${FUNCTIONS_DIR}/backend.sh
 
 . ${FUNCTIONS_DIR}/postfix.sh
